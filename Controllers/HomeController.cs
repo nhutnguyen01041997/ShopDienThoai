@@ -8,7 +8,7 @@ using System.IO;
 using System;
 using Microsoft.EntityFrameworkCore;
 
-namespace BooksStore.Controllers
+namespace ShopDienThoai.Controllers
 {
     public class HomeController : Controller
     {
